@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background-image: url(sfondo.png);
+    background-size: auto;
+}
+.logo{
+    size: 50px;
+    text-align: center;
+}
+.navigazione{
+    width: 80%;
+    margin: auto;
+    background-color: green;
+}
+.linea1{
+    size: 40px;
+    align-self: left;
+    background-color: orange;
+}
+.linea2{
+    size: 70px;
+    align-self: left;
+    background-color: green;
+}
+.linea1{
+    size: 20px;
+    align-self: left;
+    background-color: red;
+}
